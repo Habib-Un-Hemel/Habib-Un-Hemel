@@ -1,6 +1,6 @@
 ![logo](https://github.com/Habib-Un-Hemel/Habib-Un-Hemel/blob/main/ok.png)
 <h1 align="center">Hi 👋, I'm Habibun Nabi Hemel</h1>
-<h3 align="center">A passionate software developer from Bangladesh and currently I am a 2nd year BSC student</h3>
+<h3 align="center">A passionate software developer from Bangladesh and currently I am a 2nd year Computer Science student</h3>
 <!--
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xdXdrY3ZpcGdjNnl2Z2dxMDJvbzNkNzU5aW9qcDlrbXIybGtoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
  -->
