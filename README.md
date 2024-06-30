@@ -7,7 +7,7 @@
  
 - 👨‍💻 I’m currently learning **Full Stack Development(MERN), DSA, Quantum Computing**
 
-- 💬 Ask me about **React, DSA ,Automata**
+- 💬 Ask me about **ML, DSA ,Automata, Cloud, Quantum**
 
 - 📫 How to reach me **habibun33hemel@gmail.com**
 
