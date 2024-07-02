@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG0xdXdrY3ZpcGdjNnl2Z2dxMDJvbzNkNzU5aW9qcDlrbXIybGtoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
  -->
  
-- 👨‍💻 I’m currently learning **Full Stack Development(MERN), DSA, Quantum Computing**
+- 👨‍💻 I’m currently learning **Full Stack Development(MERN), **
 
 - 💬 Ask me about **ML, DSA ,Automata, Cloud, Quantum**
 
