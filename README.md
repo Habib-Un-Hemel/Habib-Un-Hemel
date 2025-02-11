@@ -49,6 +49,10 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
 ![AWS](https://img.shields.io/static/v1?&message=AWS&color=0a2c82&logo=aws&logoColor=FFFFFF&label=)
 
+- **Productivity -**
+![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
+
+
 - **Machine Learning -**
 ![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
@@ -56,8 +60,6 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
 ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 
-- **Productivity -**
-![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
 
 
 
