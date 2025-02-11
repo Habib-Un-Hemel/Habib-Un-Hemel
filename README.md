@@ -25,6 +25,8 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 ## 🛠️  My Tech! 
 
+- **Productivity -**
+![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
 
 - **Languages -**
 ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
@@ -51,8 +53,7 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
 ![AWS](https://img.shields.io/static/v1?&message=AWS&color=0a2c82&logo=aws&logoColor=FFFFFF&label=)
 
-- **Productivity -**
-![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
+
 
 
 - **Machine Learning -**
