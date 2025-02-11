@@ -21,8 +21,8 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 <!-- --------------------------------------------------------->
 
+## 🛠️  My Tech! 
 
-### 🛠️ My Tech
 
 - **Languages -**
 ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
@@ -63,8 +63,9 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="Hemel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Habib-Un-Hemel&show_icons=true" />   &nbsp;
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-Un-Hemel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
  <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=TamimEhsan) -->
 <br />
