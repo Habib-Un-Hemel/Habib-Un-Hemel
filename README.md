@@ -64,8 +64,7 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 
 - **Productivity -**
-![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)  
-![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
+![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
 
 
 
