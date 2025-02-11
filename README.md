@@ -38,9 +38,7 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
 
  - **Database -**
-![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)  
-![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=6566ba&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=6566ba&logo=PostgreSQL&logoColor=FFFFFF&label=)
 
 - **Frontend -**
 ![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
