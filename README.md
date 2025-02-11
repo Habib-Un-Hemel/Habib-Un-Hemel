@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Habibun Nabi Hemel</h1>
 
 I'm currently pursuing my undergraduate degree in **Computer Science** from **BRAC University**, where I'm in my **4th year**.  
-Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant** in the **Department of Mathematics and Natural Science** at **BRAC University**.  
-I'm an **aspiring Software Development Engineer (SDE)** and currently looking for a **Software Engineering Internship** to apply my skills and gain industry experience.
+Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant** at **BRAC University**.  
+
 
 
 - 🧩 Regularly working on **Full-Stack Development & Problem-Solving in Java**
@@ -11,7 +11,7 @@ I'm an **aspiring Software Development Engineer (SDE)** and currently looking fo
 - 👩🏻‍💻 Currently developing **end-to-end full-stack projects**, integrating **Machine Learning** features.
 
 
-> ***Feel free to reach out to me on [***linkedin***](**https://www.linkedin.com/in/habibun-nabi-hemel/**) or [***mail***](mailto:habibun3321hemel@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
+>📫 ***Feel free to reach out to me on [***linkedin***](**https://www.linkedin.com/in/habibun-nabi-hemel/**) or [***mail***](mailto:habibun3321hemel@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
 
 <h3 align="center"></h3>
 
