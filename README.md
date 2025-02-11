@@ -6,9 +6,9 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 
 
-- 🧩 Regularly working on **Full-Stack Development & Problem-Solving in Java**
-- 🔬 My **thesis** work focuses on **Machine Unlearning Approaches in Federated Environment**
-- 👩🏻‍💻 Currently developing **end-to-end full-stack projects**, integrating **Machine Learning** features.
+- 🧩 Regularly working on **Full-Stack Development & Problem-Solving in Java**.
+- 🔬 My **thesis** work focuses on **Machine Unlearning Approaches in Federated Environment**.
+- 👩🏻‍💻 Currently developing **end-to-end full-stack projects**, integrating some **Machine Learning** features.
 
 
 >📫 ***Feel free to reach out to me on [***linkedin***](**https://www.linkedin.com/in/habibun-nabi-hemel/**) or [***mail***](mailto:habibun3321hemel@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
@@ -24,14 +24,17 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 ### 🛠️ My Tech
 
-- **Languages -** 
-![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
-![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
+- **Languages -**
 ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
-![C Sharp](https://img.shields.io/static/v1?&message=C+Sharp&color=2d07ad&logo=csharp&label=&)
-![F Sharp](https://img.shields.io/static/v1?&message=F+Sharp&color=000000&logo=fsharp&logoColor=66bced&label=)
+![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
+![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+
+
 
 - **Backend -**
+  ![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)  
+![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)  
+
 ![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
 ![Dotnet](https://img.shields.io/static/v1?&message=Dotnet&color=8b32d9&logo=dotnet&label=)
 ![Oracle](https://img.shields.io/static/v1?&message=Oracle&color=F80000&logo=Oracle&label=)
