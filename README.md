@@ -26,26 +26,27 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 - **Languages -**
 ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
-![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
 ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
+
 
 
 
 - **Backend -**
-  ![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)  
-![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)  
+![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)  
+![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
 
-![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
-![Dotnet](https://img.shields.io/static/v1?&message=Dotnet&color=8b32d9&logo=dotnet&label=)
-![Oracle](https://img.shields.io/static/v1?&message=Oracle&color=F80000&logo=Oracle&label=)
+ - **Database -**
+![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)  
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=6566ba&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
 
 - **Frontend -**
 ![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
 ![React](https://img.shields.io/static/v1?&message=React&color=000000&logo=react&logoColor=66bced&label=)
 ![Bootstrap](https://img.shields.io/static/v1?&message=Bootstrap&color=5f0b7a&logo=bootstrap&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?&message=Tailwind%20CSS&color=38B2AC&logo=tailwindcss&logoColor=FFFFFF&label=)  
 
 - **Tools -**
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
@@ -53,18 +54,18 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Bash](https://img.shields.io/static/v1?&message=Bash&color=000000&logo=powershell&logoColor=5cfc05&label=)
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
-![Microsoft Azure](https://img.shields.io/static/v1?&message=Microsoft%20Azure&color=2496ED&logo=microsoftazure&logoColor=FFFFFF&label=)
-![Azure Devops](https://img.shields.io/static/v1?&message=Azure%20Devops&color=0e6db5&logo=azuredevops&logoColor=FFFFFF&label=)
 ![AWS](https://img.shields.io/static/v1?&message=AWS&color=0a2c82&logo=aws&logoColor=FFFFFF&label=)
 
-- **Machine Learning -** 
+- **Machine Learning -**
 ![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
 ![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
 ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 
-
+- **Productivity -**
+![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)  
+![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
 
 
 
