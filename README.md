@@ -11,6 +11,9 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 - 👩🏻‍💻 Currently developing **end-to-end full-stack projects**, integrating some **Machine Learning** features.
 
 
+> ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/habibun-nabi-hemel/) or [***mail***](mailto:habibun3321hemel@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
+
+
 >📫 ***Feel free to reach out to me on [***linkedin***](**https://www.linkedin.com/in/habibun-nabi-hemel/**) or [***mail***](mailto:habibun3321hemel@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
 
 <h3 align="center"></h3>
