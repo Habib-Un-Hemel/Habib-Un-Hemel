@@ -29,13 +29,8 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
 ![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
 
-
-
-
 - **Backend -**
-![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)  
-![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)
-![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
 
  - **Database -**
 ![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=6566ba&logo=PostgreSQL&logoColor=FFFFFF&label=)
@@ -66,7 +61,17 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 
 
+## Github Overview
 
+<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />   &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+ <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=TamimEhsan) -->
+<br />
+<!--
+## My Programming Performances
+
+<h5>
 
 
 
