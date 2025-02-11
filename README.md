@@ -1,6 +1,19 @@
 <!--![logo](https://github.com/Habib-Un-Hemel/Habib-Un-Hemel/blob/main/ok2.png)-->
 <h1 align="center">Hi 👋, I'm Habibun Nabi Hemel</h1>
-<h3 align="center">A passionate software developer from Bangladesh and currently I am a 3rd year Computer Science student</h3>
+
+I'm currently pursuing my undergraduate degree in **Computer Science** from **BRAC University**, where I'm in my **4th year**.  
+Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant** in the **Department of Mathematics and Natural Science** at **BRAC University**.  
+I'm an **aspiring Software Development Engineer (SDE)** and currently looking for a **Software Engineering Internship** to apply my skills and gain industry experience.
+
+
+- 🧩 Regularly working on **Full-Stack Development & Problem-Solving in Java**
+- 🔬 My **thesis** work focuses on **Machine Unlearning Approaches in Federated Environment**
+- 👩🏻‍💻 Currently developing **end-to-end full-stack projects**, integrating **Machine Learning** features.
+
+
+> ***Feel free to reach out to me on [***linkedin***](**https://www.linkedin.com/in/habibun-nabi-hemel/**) or [***mail***](mailto:habibun3321hemel@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
+
+<h3 align="center"></h3>
 
 
 
@@ -8,15 +21,6 @@
 
 <!-- --------------------------------------------------------->
 
-<h1 align="center">Hi there 👋, I'm Ramisa Alam</h1>
-
-I'm currently working as a **Software Dev Engineer** at [AWS](https://aws.amazon.com). I completed my undergraduate degree in **Computer Science** from **BUET** in 2023 and worked as a Software Engineer at [Chaldal.com](https://chaldal.com/) for a year.
-
-- 🧩 I enjoy designing efficient solutions for complex algorithmic problems. I was active in ***Competitive Programming*** during my undergrad. 
-- 👩🏻‍💻 I am currently learning the ins and outs of ***AWS***, ***Designing Distributed Systems***, and ***Developing Data-Driven Solutions***.
-- 🔬 I am also interested in research projects in the field of ***Natural Language Processing***.
-
-> ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/ramisa-alam-459308204/) or [***mail***](mailto:ramisa2108@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
 
 ### 🛠️ My Tech
 
