@@ -69,6 +69,9 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ## Github Overview
 
 <img align="left" alt="Hemel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Habib-Un-Hemel&show_icons=true" />   &nbsp;
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Krish-Depani&theme=react-dark&hide_border=true&area=true)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-Un-Hemel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
