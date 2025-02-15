@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Habibun Nabi Hemel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habib-Un-Hemel
 &label=Profile%20views&color=0e75b6&style=flat" alt="Hemel" /> </p>
-<p align="left"> <a href="https://x.com/Habib33hemel" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="hemel"  </p>
+<p align="left"> <a href="https://x.com/Habib33hemel" target="blank"><img src="https://img.shields.io/twitter/follow/Habib-Un-Hemel?logo=twitter&style=for-the-badge" alt="hemel"  </p>
 
 
 I'm currently pursuing my undergraduate degree in **Computer Science** from **BRAC University**, where I'm in my **4th year**.  
