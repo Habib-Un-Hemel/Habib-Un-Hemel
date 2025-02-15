@@ -1,7 +1,7 @@
 <!--![logo](https://github.com/Habib-Un-Hemel/Habib-Un-Hemel/blob/main/ok2.png)-->
 <h1 align="center">Hi 👋, I'm Habibun Nabi Hemel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Habib-Un-Hemel
-&label=Profile%20views&color=0e75b6&style=flat" alt="Hemel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Habib-Un-Hemel&label=Profile%20views&color=0e75b6&style=flat" alt="hemel" /> </p>
+
 <p align="left"> <a href="https://x.com/Habib33hemel" target="blank"><img src="https://img.shields.io/twitter/follow/Habib-Un-Hemel?logo=twitter&style=for-the-badge" alt="hemel"  </p>
 
 
@@ -74,6 +74,8 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 <!--<img align="left" alt="Hemel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Habib-Un-Hemel&show_icons=true" />   &nbsp;-->
 
+
+<!--
 <p align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Habib-Un-Hemel&show_icons=true"/>
@@ -91,8 +93,18 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 &text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
+-->
+
+<div style="display: flex;  gap: 20px; margin-left: 50px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Habib-Un-Hemel&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-Un-Hemel&&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Habib-Un-Hemel&theme=react-dark&hide_border=true&area=true)
+
+
 
 
 
