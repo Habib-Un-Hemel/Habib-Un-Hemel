@@ -29,8 +29,15 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 
 ## 🛠️  My Tech! 
 
+- **Tools -**
+![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
+<!--![AWS](https://img.shields.io/static/v1?&message=AWS&color=0a2c82&logo=aws&logoColor=FFFFFF&label=) 
+![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Bash](https://img.shields.io/static/v1?&message=Bash&color=000000&logo=powershell&logoColor=5cfc05&label=)-->
 - **Productivity -**
-![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)  
+![MS PowerPoint](https://img.shields.io/static/v1?&message=MS%20PowerPoint&color=B7472A&logo=microsoft-powerpoint&logoColor=FFFFFF&label=)![Notion](https://img.shields.io/static/v1?&message=Notion&color=000000&logo=notion&logoColor=FFFFFF&label=)
 
 - **Languages -**
 ![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
@@ -49,14 +56,6 @@ Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant**
 ![Bootstrap](https://img.shields.io/static/v1?&message=Bootstrap&color=5f0b7a&logo=bootstrap&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?&message=Tailwind%20CSS&color=38B2AC&logo=tailwindcss&logoColor=FFFFFF&label=)  
 
-- **Tools -**
-![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
-
-<!--![AWS](https://img.shields.io/static/v1?&message=AWS&color=0a2c82&logo=aws&logoColor=FFFFFF&label=) 
-![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![Bash](https://img.shields.io/static/v1?&message=Bash&color=000000&logo=powershell&logoColor=5cfc05&label=)-->
 
 
 
