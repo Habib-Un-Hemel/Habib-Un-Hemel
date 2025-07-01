@@ -1,9 +1,53 @@
 <!--![logo](https://github.com/Habib-Un-Hemel/Habib-Un-Hemel/blob/main/ok2.png)-->
-<h1 align="center">Hi 👋, I'm Habibun Nabi Hemel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Habib-Un-Hemel&label=Profile%20views&color=0e75b6&style=flat" alt="hemel" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=200&section=header&text=Habibun%20Nabi%20Hemel&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
+<h3 align="center">Full-Stack Developer | Undergrad Teaching Assistant | Computer Science Student</h3>
 
-<p align="left"> <a href="https://x.com/Habib33hemel" target="blank"><img src="https://img.shields.io/twitter/follow/Habib-Un-Hemel?logo=twitter&style=for-the-badge" alt="hemel"  </p>
+<div align="center">
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Final+Year+CSE+Student+@+BRACU;TA+for+OOP+Course+%7C+Helping+Others+Code+Better;Building+MERN+Stack+Applications;Solving+Java+DSA+Problems+on+LeetCode;Exploring+Machine+Unlearning+Research;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
+</div>
+
+<!-- 🌐 Portfolio Badge -->
+<div align="center">
+  <a href="https://hemel-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827&color=22d3ee" alt="Portfolio Badge" />
+  </a>
+</div>
+
+<br />
+
+<!-- 🔗 Social + Coding Platform Badges -->
+<div align="center">
+
+  <a href="https://github.com/Habib-Un-Hemel" target="_blank" style="vertical-align: middle; margin-right: 12px;">
+  <img src="https://komarev.com/ghpvc/?username=Habib-Un-Hemel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="vertical-align: middle; margin-right: 12px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/habibun-nabi-hemel/" target="_blank" style="vertical-align: middle; margin-right: 12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemel-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+ <!-- </a>
+    <a href="https://x.com/Habib33hemel" target="_blank" style="vertical-align: middle; margin-right: 12px;">
+    <img src="https://img.shields.io/badge/Twitter-followHemel-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Twitter Badge" />
+  </a> -->
+
+  <a href="https://x.com/Habib33hemel" target="_blank" style="vertical-align: middle; margin-right: 12px;">
+    <img src="https://img.shields.io/twitter/follow/Habib33hemel?style=flat&logo=twitter&logoColor=1DA1F2" alt="Twitter Badge" />
+  </a>
+
+  <a href="https://leetcode.com/u/Habib-Un-Hemel/" target="_blank" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/LeetCode-HemelUnHemel-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+  </a>
+
+</div>
+
+
+
+
+
+## 👨‍💻 About Me
 
 I'm currently pursuing my undergraduate degree in **Computer Science** from **BRAC University**, where I'm in my **4th year**.  
 Alongside my studies, I work as a **Part-time Undergraduate Teaching Assistant** at **BRAC University**.  
