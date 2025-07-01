@@ -1,4 +1,3 @@
-<!--![logo](https://github.com/Habib-Un-Hemel/Habib-Un-Hemel/blob/main/ok2.png)-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=200&section=header&text=Habibun%20Nabi%20Hemel&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
