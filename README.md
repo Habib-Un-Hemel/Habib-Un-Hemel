@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Final+Year+CSE+Student+@+BRACU;TA+for+OOP+Course+%7C+Helping+Others+Code+Better;Building+MERN+Stack+Applications;Solving+Java+DSA+Problems+on+LeetCode;Exploring+Machine+Unlearning+Research;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Final+Year+CS+Student+@+BRACU;TA+for+OOP+Course+%7C+Helping+Others+Code+Better;Building+MERN+Stack+Applications;Solving+Java+DSA+Problems+on+LeetCode;Exploring+Machine+Unlearning+Research;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
 </div>
 
 <!-- 🌐 Portfolio Badge -->
